@@ -1,0 +1,6 @@
+# Google Gemini API Configuration
+# Get your API key from: https://makersuite.google.com/app/apikey
+GEMINI_API_KEY=your-gemini-api-key-here
+
+# Optional: Database configuration (if you want to use a database later)
+# DATABASE_URL=sqlite:///./ecomail.db
